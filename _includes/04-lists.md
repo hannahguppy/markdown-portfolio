@@ -1,1 +1,3 @@
-Replace this with a list of your favorite things.
+1. sleep 🛌
+2. eat 🍖
+3. reapeat 🔁
